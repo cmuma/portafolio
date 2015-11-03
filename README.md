@@ -1,1 +1,1 @@
-No tengo mucho que decir ;)
+No tengo mucho que decir. Aprendiendo a copiar y pegar con talento...un poco.
