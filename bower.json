@@ -1,0 +1,21 @@
+{
+  "name": "portafolio",
+  "homepage": "https://github.com/cmuma/portafolio",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jquery-form-validator": "~2.2.81",
+    "bxslider-4": "~4.2.5"
+  }
+}

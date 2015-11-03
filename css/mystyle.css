@@ -1,7 +1,7 @@
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   	border-color: #ecf0f1;
-  	margin-top: 5px;
+  	margin-top: 30px;
 }
 
 
@@ -21,7 +21,8 @@
 .navbar-brand > img {
     height: 100px;
     width: 230px;
-    margin-top: -40px;
+    margin-top: -38px;
+    padding: 7px 12px;
 }
 
 .scroll-top .btn {
@@ -42,14 +43,14 @@
 
 .btn-success {
     color: #ffffff;
-    background-color: #e43725;
-    border-color: #e43725;
+    background-color: #F8262C;
+    border-color: #F8262C;
 }
 
 .btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
     color: #ffffff;
-    background-color: #e43725;
-    border-color: #e43725;
+    background-color: #F8262C;
+    border-color: #F8262C;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
@@ -58,16 +59,37 @@
 }
 
 a {
-    color: #f39c12;
+    color: #F8262C;
     text-decoration: none;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-    color: #f39c12;
+    color: #F8262C;
 }
 
 .navbar-default .navbar-nav>li>a:active {
     color: #ffffff;
 }
 
+.margin_form{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.h2_negro{
+    color: #252327;
+}
+
+.h2_blanco{
+    color: #fff;
+}
+
+.h2-section{
+    color: #F8262C;
+    font-size: 22px;
+}
+
+.h3_footer{
+    font-size: 20px;
+}
 
